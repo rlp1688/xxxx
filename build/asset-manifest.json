@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e57a3aca.css",
+    "main.js": "/static/js/main.cb17224a.js",
+    "static/media/img1.png": "/static/media/img1.862c1458b4843eb36e0a.png",
+    "static/media/img4.jpeg": "/static/media/img4.aa608e73c60d53382c09.jpeg",
+    "static/media/img1.jpeg": "/static/media/img1.0b372db7aff8cf2d300a.jpeg",
+    "static/media/WhatsApp Image 2024-03-22 at 1.51.13 PM(1).jpeg": "/static/media/WhatsApp Image 2024-03-22 at 1.51.13 PM(1).0224ac5eda42bc24646e.jpeg",
+    "static/media/WhatsApp Image 2024-03-22 at 1.51.12 PM(1).jpeg": "/static/media/WhatsApp Image 2024-03-22 at 1.51.12 PM(1).6fb54b089db31bfcaeb8.jpeg",
+    "static/media/img2.jpeg": "/static/media/img2.fbca65bad66351825f08.jpeg",
+    "static/media/WhatsApp Image 2024-03-22 at 1.51.12 PM.jpeg": "/static/media/WhatsApp Image 2024-03-22 at 1.51.12 PM.2ff131bb7ad18153ff3f.jpeg",
+    "static/media/WhatsApp Image 2024-03-22 at 1.53.01 PM.jpeg": "/static/media/WhatsApp Image 2024-03-22 at 1.53.01 PM.ccabe307317356bca40f.jpeg",
+    "static/media/WhatsApp Image 2024-03-22 at 1.51.08 PM.jpeg": "/static/media/WhatsApp Image 2024-03-22 at 1.51.08 PM.e583e942861db941f6a4.jpeg",
+    "static/media/WhatsApp Image 2024-03-22 at 2.00.45 PM.jpeg": "/static/media/WhatsApp Image 2024-03-22 at 2.00.45 PM.e15b6bcff92fcdea0f4e.jpeg",
+    "static/media/Screenshot 2024-03-24 at 23-35-36 React App.png": "/static/media/Screenshot 2024-03-24 at 23-35-36 React App.9fedbc0bcaa522ce4eac.png",
+    "static/media/img5.jpeg": "/static/media/img5.8e478804a231e374032a.jpeg",
+    "static/media/WhatsApp Image 2024-03-22 at 1.51.13 PM.jpeg": "/static/media/WhatsApp Image 2024-03-22 at 1.51.13 PM.a3d6d70237f100e5cb58.jpeg",
+    "static/media/WhatsApp Image 2024-03-22 at 1.51.09 PM.jpeg": "/static/media/WhatsApp Image 2024-03-22 at 1.51.09 PM.86da6e763b62c1771d06.jpeg",
+    "static/media/waterfall.png": "/static/media/waterfall.19d6582b1e5bb1d31adb.png",
+    "static/media/img3.jpeg": "/static/media/img3.0e3923d4289a2b9ec37b.jpeg",
+    "static/media/WhatsApp Image 2024-03-22 at 1.51.13 PM(2).jpeg": "/static/media/WhatsApp Image 2024-03-22 at 1.51.13 PM(2).61cca31090e4c097832f.jpeg",
+    "static/media/img1.jpg": "/static/media/img1.71fdb1612199fb50310a.jpg",
+    "static/media/img.jpg": "/static/media/img.7829ce35de89da36fe02.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.e57a3aca.css.map": "/static/css/main.e57a3aca.css.map",
+    "main.cb17224a.js.map": "/static/js/main.cb17224a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e57a3aca.css",
+    "static/js/main.cb17224a.js"
+  ]
+}
